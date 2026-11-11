@@ -1,0 +1,5 @@
+[functions.fetch-facts]
+verify_jwt = false
+
+[functions.reverify-facts]
+verify_jwt = false
